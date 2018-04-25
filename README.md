@@ -18,3 +18,4 @@ Ok, these are your tasks:
 * `leastFavoriteCustomer` and `changeLeastFavoriteCustomer()`: Now declare a constant in global scope called `leastFavoriteCustomer`, be sure to assign it some initial value. Ok, now write a function called `changeLeastFavoriteCustomer()` that attempts to change that constant - notice what JavaScript does when you try to change the constant.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-principles-scope-lab'>Scope Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Scope Lab</p>
